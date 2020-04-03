@@ -1,13 +1,11 @@
 # python_algorithm
 :smile: 안녕하세요. 글쓰는 개발자입니다. :smile:
 
-블로그 :point_right: https://backstreet-programmer.tistory.com/
-
+블로그 :point_right: https://backstreet-programmer.tistory.com/  
 로켓펀치 :point_right: https://www.rocketpunch.com/@jhs931224
 
 
-자료구조 및 알고리즘 학습과 Python 공부를 병행하기 위한 repository입니다.
-
+자료구조 및 알고리즘 학습과 Python 공부를 병행하기 위한 repository입니다.  
 문제를 풀 때 마다 해당 내용은 업데이트됩니다.
 
 
