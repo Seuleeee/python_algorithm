@@ -1,5 +1,4 @@
-# ID와 Password가 일치해야만 함수가 동작하도록 만들기
-import logging
+# ID와 Password가 확인한 후 함수가 동작하도록 만들기
 import random
 datas = [
     {"id":"Kobe", "pwd":"Bryant", "addr":"LA"},
@@ -8,9 +7,19 @@ datas = [
     {"id":"Kevin", "pwd":"Durant", "addr":"Brooklyn"}
 ]
 
-
 def check_func(func):
+    """
+    check id and password
+    :param func: function
+    :return: wrapper
+    """
+
     def wrapper(*args, **kwargs):
+        """
+        :param args:
+        :param kwargs:
+        :return: result of implementing the function
+        """
         input_id = input("insert ID : ")
         input_pwd = input("insert Password : ")
         result = 0;
@@ -27,7 +36,10 @@ def plus(a, b):
 
 @check_func
 def get_lotto_number():
-
+    """
+    make and get lotto number
+    :return:
+    """
     #번호를 담을 리스트를 만든다.
     number_ls = []
     while True:
@@ -42,3 +54,4 @@ def get_lotto_number():
 plus_result = plus(3,4)
 print(plus_result)
 get_lotto_number()
+
