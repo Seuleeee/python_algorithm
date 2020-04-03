@@ -9,7 +9,7 @@
 문제를 풀 때 마다 해당 내용은 업데이트됩니다.
 
 
-:bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb:
+:bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb:
 
 
 :facepunch: 20200403 if문 총 5개문제 풀이완료. 백준링크 :point_right: https://www.acmicpc.net/step/4
