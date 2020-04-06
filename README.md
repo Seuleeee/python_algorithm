@@ -12,5 +12,5 @@
 :bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb:
 
 
-:facepunch: 20200403 if문 총 5개문제 풀이완료. 백준링크 :point_right: https://www.acmicpc.net/step/4
+:facepunch: 20200403 if문 총 5개문제 풀이완료. 백준링크 :point_right: https://www.acmicpc.net/step/4  
 :facepunch: 20200406 for문 총 2개문제 풀이완료. 백준링크 :point_right: https://www.acmicpc.net/step/3
