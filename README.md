@@ -12,7 +12,7 @@
 :bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb::bulb:
 
 
-:facepunch: 20200403 백준 if문 5/5개문제 풀이완료. 
-:facepunch: 20200406 백준 for문 2/11개문제 풀이완료. 
-:facepunch: 20200407 백준 for문 4/11개문제 풀이완료. 
-:facepunch: 20200407 백준 for문 11/11개문제 풀이완료. 
+:facepunch: 20200403 백준 if문 5/5개문제 풀이완료.   
+:facepunch: 20200406 백준 for문 2/11개문제 풀이완료.   
+:facepunch: 20200407 백준 for문 4/11개문제 풀이완료.   
+:facepunch: 20200407 백준 for문 11/11개문제 풀이완료.   
